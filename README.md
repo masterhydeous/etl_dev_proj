@@ -6,3 +6,5 @@
     $ pip install -U pandas
     $ pip install -U numpy
     $ pip install -U sqlalchemy
+    
+  work in progress, need a lot of polishment.
